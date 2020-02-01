@@ -1,0 +1,206 @@
+﻿.divContenedoraPrincipal {
+    position: absolute;
+    width: 1003px;
+    height: 909px;
+    left: 437px;
+    top: 115px;
+    background: #F2FCFF;
+}
+
+.divListaContacto {
+    position: absolute;
+    left: 0.3%;
+    right: 69.35%;
+    top: 0.51%;
+    bottom: 77.12%;
+    background: #DBDBDB;
+}
+
+.divNombreContacto {
+    position: absolute;
+    left: 30.65%;
+    right: 0.3%;
+    top: 0.51%;
+    bottom: 77.12%;
+    background: #DBDBDB;
+}
+
+.divPrimerContacto {
+    position: absolute;
+    left: 0.3%;
+    right: 69.35%;
+    top: 22.88%;
+    bottom: 62.54%;
+    background: #FFFFFF;
+}
+
+.divSegundoContacto {
+    position: absolute;
+    left: 1.01%;
+    right: 69.35%;
+    top: 37.46%;
+    bottom: 48.64%;
+    background: #FFFFFF;
+}
+
+.divTercerContacto {
+    position: absolute;
+    left: 0.3%;
+    right: 69.35%;
+    top: 51.36%;
+    bottom: 34.75%;
+    background: #FFFFFF;
+}
+
+.divCuartoContacto {
+    position: absolute;
+    left: 0.3%;
+    right: 69.35%;
+    top: 65.25%;
+    bottom: 20.68%;
+    background: #FFFFFF;
+}
+
+.divQuintoContacto {
+    position: absolute;
+    left: 0.3%;
+    right: 69.35%;
+    top: 79.32%;
+    bottom: 6.78%;
+    background: #FFFFFF;
+}
+
+.divSeccionMensajes {
+    position: absolute;
+    left: 30.65%;
+    right: 0.3%;
+    top: 22.88%;
+    bottom: 11.02%;
+    background: #F2F2F2;
+}
+
+.txtEscritura {
+    position: absolute;
+    left: 15.47%;
+    right: 1.01%;
+    top: 90.34%;
+    bottom: 1.53%;
+    background: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    box-sizing: border-box;
+    border-radius: 25px;
+    width: 500px;
+}
+
+.etiquetaListaContactos {
+    position: absolute;
+    left: 3.33%;
+    right: 72.28%;
+    top: 5.08%;
+    bottom: 80.68%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.etiquetaNombreContacto {
+    position: absolute;
+    left: 46.37%;
+    right: 16.09%;
+    top: 9.66%;
+    bottom: 86.24%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.image1 {
+    position: absolute;
+    left: 3.93%;
+    right: 89.92%;
+    top: 11.25%;
+    bottom: 64.41%;
+    background: url(Images/cara1.jpg);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.image2 {
+    position: absolute;
+    left: 3.93%;
+    right: 89.92%;
+    top: 11.25%;
+    bottom: 50.34%;
+    background: url(Images/Cara2.jpg);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.image3 {
+    position: absolute;
+    left: 3.93%;
+    right: 89.92%;
+    top: 11.25%;
+    bottom: 50.34%;
+    background: url(Images/Cara3.jpg);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.image4 {
+    position: absolute;
+    left: 3.93%;
+    right: 89.92%;
+    top: 11.12%;
+    bottom: 22.54%;
+    background: url(Images/Cara4.jpg);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.image5 {
+    position: absolute;
+    left: 3.93%;
+    right: 89.92%;
+    top: 10.19%;
+    bottom: 8.47%;
+    background: url(Images/Cara5.jpg);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.divisionPrimerContacto {
+    position: absolute;
+    left: 0.3%;
+    right: 69.35%;
+    top: 97%;
+    bottom: 62.54%;
+    border: 1px solid #DBDBDB;
+    width: 100%;
+}
+
+.etiquetaNombrePrimerContacto {
+    position: absolute;
+    left: 43.61%;
+    right: 73.59%;
+    top: 42.81%;
+    bottom: 68.47%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+    width: 100%;
+}
