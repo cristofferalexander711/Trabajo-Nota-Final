@@ -1,0 +1,56 @@
+﻿.divLogin {
+    position: absolute;
+    background: #F2FCFF;
+    border: 2px solid #C3F1FF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+}
+
+.centered {
+   
+}
+
+.tituloLogin {
+  
+    width: 303px;
+    height: 49px;   
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 49px;
+    color: #5AD2AE;
+}
+
+.oculto {
+    visibility: hidden;
+    color: red;
+}
+
+.visible {
+    visibility: visible;
+    color: red;
+}
+
+.inputs {
+    border-radius: 39.5px;
+    border: 1px solid #C3F1FF;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px 10px;
+    line-height: 11px;
+}
+
+.button {
+    background: #5AD2AE;
+    border-radius: 39.5px;
+    border: 1px solid #469F85;
+    width: 100%;
+    padding: 20px 10px;
+    line-height: 11px;
+}
